@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/brandontreb/code/MicroPlanes/.git'
+let g:netrw_dirhist_2='/Users/brandontreb/elc/code/YouthNet/.git/info'
+let g:netrw_dirhist_3='/Volumes/MacHD/Users/brandontreb'
+let g:netrw_dirhist_4='/Volumes/MacHD/Users/brandontreb/.vim'
+let g:netrw_dirhist_5='/Volumes/MacHD/Users/brandontreb/.vim/ftplugin'
+let g:netrw_dirhist_6='/Volumes/MacHD/Users/brandontreb/.vim'
+let g:netrw_dirhist_7='/Volumes/MacHD/Users/brandontreb/.vim/src'
+let g:netrw_dirhist_8='/Users/brandontreb/Desktop/GameServer'

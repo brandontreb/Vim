@@ -1,7 +1,11 @@
+" Installed Plugins
+" NERDTree
+" Rails.vim
+
 " Turn on line numbering. Turn it off with "set nonu" 
-"set nu 
+set nu 
 " relative
-set relativenumber
+"set relativenumber
 
 " Set syntax on
 syntax on
@@ -36,3 +40,6 @@ nmap <leader>md :%!/usr/local/bin/Markdown.pl --html4tags <cr>
 " Key bindings
 nmap <silent> <c-n> :NERDTreeToggle<CR>
 nnoremap <silent> <c-m> :TlistToggle<CR>
+
+" Theming
+colorscheme Tomorrow-Night
